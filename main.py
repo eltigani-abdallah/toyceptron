@@ -89,4 +89,4 @@ for i, layer in enumerate(net.layers):
     activated = [act_sigmoid(o) for o in raw]
     print(f"\nCouche {i + 1} (valeurs brutes):", raw)
     print(f"Couche {i + 1} (valeurs activées):", activated)
-    inputs = activated
+    inputs = activated 
