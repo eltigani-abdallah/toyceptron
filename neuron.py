@@ -1,4 +1,3 @@
-from text_color import RED, WHITE
 import random
 
 # created during live coding of Feb 12
