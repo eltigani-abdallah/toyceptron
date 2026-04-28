@@ -13,8 +13,8 @@
 A Python implementation of a 3 layer neural network made from scratch, built as a student project at La Plateforme_ Marseille: the goal was to understand the fundamentals of neural networks by implementing forward propagation with no external libraries and no model training.
 
 ## Authors
-Eltigani ABDALLAH
-Rimma CHUKHNO
+- Eltigani ABDALLAH
+- Rimma CHUKHNO
 
 ## Objectives
 
